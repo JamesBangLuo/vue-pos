@@ -23,5 +23,4 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 
 
 
-#awesomepos
-[demo](https://jamesbangluo.github.io/awesomepos/)
+
