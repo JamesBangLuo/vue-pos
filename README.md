@@ -24,7 +24,7 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 ### Vue-Router
 ###  ES6
 ###  Axios
-###  Element—Ui
+###  Element—U
 
 
 
