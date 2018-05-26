@@ -1,6 +1,10 @@
-
-
-
+#技术栈
+Vue-Cli
+Vue
+Vue-Router
+ES6
+Axios
+Element—Ui
 
 ## Build Setup
 
